@@ -46,13 +46,11 @@ The project is organized as follows:
   - `02D_silver.py` - Silver layer: Store dimension with SCD Type 2
   - `03_gold.py` - Gold layer: Business-ready aggregations and analytics
 
-  **Note:** Each file contains tasks with requirements and a "Solution Is Below" section for reference.
 
 ### `final_code/` folder - Reference materials
 
 - `final_dlt.py` - Complete solution for the entire pipeline when you need a full reference
 
-**Learning Tip:** Each task file (`dlt/0*.py`) includes solution code in a "Solution Is Below" section. Try solving tasks yourself first, then check the solution if needed!
 
 ### Documentation
 
@@ -60,5 +58,5 @@ The project is organized as follows:
 - `ProjectPlan.md` - Step-by-step instructions and tasks
 - `SynteticDataGenerator.md` - Details about the data generator and schemas
 
----
+
 
